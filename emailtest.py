@@ -1,0 +1,24 @@
+from email.message import EmailMessage
+import ssl
+import smtplib
+
+email_sender = 'forflybooking@gmail.com'
+email_password = "onat jemd xyyb vhbq"
+email_receiver = 'kingeon.fok@my.bdsc.school.nz'
+
+subject = 'ForFly Test Email'
+body = """
+This is a test email for ForFly. This will become a booking confirmation in the future.
+"""
+
+em = EmailMessage()
+em['From'] = email_sender
+em["To"] = email_receiver
+em['Subject'] = subject
+em.set_content(body)
+
+context = ssl.create_default_context()
+
+with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
+    smtp.login(email_sender, email_password)
+    smtp.sendmail(email_sender, email_receiver, em.as_string())
