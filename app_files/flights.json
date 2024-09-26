@@ -1,0 +1,2503 @@
+[
+    {
+        "flight_number": "QF157",
+        "origin": "Australia - Melbourne",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "6:30 PM",
+        "arrival_time": "12:05 AM",
+        "price": 147,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "NZ186",
+        "origin": "Australia - Gold Coast",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "7:10 PM",
+        "arrival_time": "12:15 AM",
+        "price": 134,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "JQ213",
+        "origin": "Australia - Melbourne",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "6:50 PM",
+        "arrival_time": "12:25 PM",
+        "price": 127,
+        "logo": "app_files/airline_logos/jetstar.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "QR920",
+        "origin": "Qatar - Doha",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "3:50 AM",
+        "arrival_time": "4:45 AM",
+        "price": 1183,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Boeing 777-200LR"
+    },
+    {
+        "flight_number": "NZ3",
+        "origin": "United States - Los Angeles",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "9:00 PM",
+        "arrival_time": "5:00 AM",
+        "price": 1446,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "CX113",
+        "origin": "China - Hong Kong",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "9:10 PM",
+        "arrival_time": "11:55 AM",
+        "price": 1523,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "CA783",
+        "origin": "China - Beijing",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "1:00 AM",
+        "arrival_time": "5:30 PM",
+        "price": 1437,
+        "logo": "app_files/airline_logos/air_china.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "QF140",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Sydney",
+        "departure_time": "6:00 AM",
+        "arrival_time": "7:45 AM",
+        "price": 237,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "QF152",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Melbourne",
+        "departure_time": "6:10 AM",
+        "arrival_time": "8:20 AM",
+        "price": 243,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "JQ202",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Sydney",
+        "departure_time": "6:15 AM",
+        "arrival_time": "8:05 AM",
+        "price": 132,
+        "logo": "app_files/airline_logos/jetstar.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "NZ81",
+        "origin": "New Zealand - Auckland",
+        "destination": "China - Hong Kong",
+        "departure_time": "10:45 AM",
+        "arrival_time": "6:20 PM",
+        "price": 1631,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "CX198",
+        "origin": "New Zealand - Auckland",
+        "destination": "China - Hong Kong",
+        "departure_time": "1:45 PM",
+        "arrival_time": "9:20 PM",
+        "price": 1427,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "AA100",
+        "origin": "United States - New York",
+        "destination": "United Kingdom - London",
+        "departure_time": "8:00 PM",
+        "arrival_time": "8:00 AM",
+        "price": 843,
+        "logo": "app_files/airline_logos/american_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "BA112",
+        "origin": "United Kingdom - London",
+        "destination": "United States - Los Angeles",
+        "departure_time": "11:25 AM",
+        "arrival_time": "2:35 PM",
+        "price": 757,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "DL109",
+        "origin": "United States - Los Angeles",
+        "destination": "Japan - Tokyo",
+        "departure_time": "4:45 PM",
+        "arrival_time": "8:05 PM",
+        "price": 956,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "AF006",
+        "origin": "France - Paris",
+        "destination": "United States - New York",
+        "departure_time": "4:25 PM",
+        "arrival_time": "6:05 PM",
+        "price": 725,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "JL37",
+        "origin": "Japan - Tokyo",
+        "destination": "Australia - Sydney",
+        "departure_time": "6:30 PM",
+        "arrival_time": "6:00 AM",
+        "price": 952,
+        "logo": "app_files/airline_logos/japan_airlines.png",
+        "aircraft_model": "Boeing 787-8"
+    },
+    {
+        "flight_number": "LH401",
+        "origin": "Germany - Frankfurt",
+        "destination": "United States - Chicago",
+        "departure_time": "2:30 PM",
+        "arrival_time": "5:00 PM",
+        "price": 783,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "SQ633",
+        "origin": "Singapore - Singapore",
+        "destination": "United States - San Francisco",
+        "departure_time": "11:30 PM",
+        "arrival_time": "6:20 PM",
+        "price": 1157,
+        "logo": "app_files/airline_logos/singapore_airlines.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "EK215",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "Australia - Melbourne",
+        "departure_time": "10:15 PM",
+        "arrival_time": "6:30 PM",
+        "price": 1124,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "QR726",
+        "origin": "Qatar - Doha",
+        "destination": "United States - Miami",
+        "departure_time": "7:15 AM",
+        "arrival_time": "1:45 PM",
+        "price": 952,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "VA1",
+        "origin": "Australia - Sydney",
+        "destination": "United States - Los Angeles",
+        "departure_time": "10:00 AM",
+        "arrival_time": "6:00 AM",
+        "price": 721,
+        "logo": "app_files/airline_logos/virgin_australia.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "NZ5",
+        "origin": "New Zealand - Auckland",
+        "destination": "China - Shanghai",
+        "departure_time": "8:15 PM",
+        "arrival_time": "5:10 AM",
+        "price": 854,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "KQ10",
+        "origin": "Kenya - Nairobi",
+        "destination": "South Africa - Johannesburg",
+        "departure_time": "11:00 AM",
+        "arrival_time": "1:05 PM",
+        "price": 355,
+        "logo": "app_files/airline_logos/kenya_airways.png",
+        "aircraft_model": "Boeing 787-8"
+    },
+    {
+        "flight_number": "SA234",
+        "origin": "South Africa - Johannesburg",
+        "destination": "United Kingdom - London",
+        "departure_time": "8:00 PM",
+        "arrival_time": "6:15 AM",
+        "price": 683,
+        "logo": "app_files/airline_logos/south_african_airways.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "MH85",
+        "origin": "Malaysia - Kuala Lumpur",
+        "destination": "Australia - Melbourne",
+        "departure_time": "11:10 PM",
+        "arrival_time": "10:05 AM",
+        "price": 680,
+        "logo": "app_files/airline_logos/malaysia_airlines.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "BR27",
+        "origin": "Taiwan - Taipei",
+        "destination": "United States - Los Angeles",
+        "departure_time": "5:50 PM",
+        "arrival_time": "2:30 PM",
+        "price": 870,
+        "logo": "app_files/airline_logos/eva_air.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "NZ372",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Brisbane",
+        "departure_time": "7:30 AM",
+        "arrival_time": "8:55 AM",
+        "price": 210,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "AY21",
+        "origin": "Finland - Helsinki",
+        "destination": "United States - New York",
+        "departure_time": "11:15 AM",
+        "arrival_time": "1:35 PM",
+        "price": 792,
+        "logo": "app_files/airline_logos/finnair.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "TK6",
+        "origin": "Turkey - Istanbul",
+        "destination": "United States - New York",
+        "departure_time": "1:00 PM",
+        "arrival_time": "4:30 PM",
+        "price": 672,
+        "logo": "app_files/airline_logos/turkish_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "AY80",
+        "origin": "Finland - Helsinki",
+        "destination": "Japan - Tokyo",
+        "departure_time": "11:20 AM",
+        "arrival_time": "7:20 AM",
+        "price": 854,
+        "logo": "app_files/airline_logos/finnair.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "UX88",
+        "origin": "Spain - Madrid",
+        "destination": "United States - Miami",
+        "departure_time": "5:45 PM",
+        "arrival_time": "11:25 PM",
+        "price": 640,
+        "logo": "app_files/airline_logos/air_europa.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "LH462",
+        "origin": "Germany - Munich",
+        "destination": "Brazil - São Paulo",
+        "departure_time": "11:05 PM",
+        "arrival_time": "5:10 AM",
+        "price": 856,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "MS985",
+        "origin": "Egypt - Cairo",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "3:00 PM",
+        "arrival_time": "7:00 PM",
+        "price": 300,
+        "logo": "app_files/airline_logos/egyptair.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "CA981",
+        "origin": "China - Beijing",
+        "destination": "Canada - Vancouver",
+        "departure_time": "3:25 PM",
+        "arrival_time": "11:00 AM",
+        "price": 1310,
+        "logo": "app_files/airline_logos/air_china.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "NH801",
+        "origin": "Japan - Tokyo",
+        "destination": "South Korea - Seoul",
+        "departure_time": "9:00 AM",
+        "arrival_time": "10:50 AM",
+        "price": 357,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "NZ772",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Brisbane",
+        "departure_time": "8:30 AM",
+        "arrival_time": "10:00 AM",
+        "price": 220,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "EK501",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "India - Mumbai",
+        "departure_time": "4:05 PM",
+        "arrival_time": "8:25 PM",
+        "price": 573,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "QR19",
+        "origin": "Qatar - Doha",
+        "destination": "France - Paris",
+        "departure_time": "7:15 PM",
+        "arrival_time": "1:05 AM",
+        "price": 643,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "LH576",
+        "origin": "Germany - Frankfurt",
+        "destination": "South Africa - Cape Town",
+        "departure_time": "10:25 AM",
+        "arrival_time": "9:05 PM",
+        "price": 851,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A340-600"
+    },
+    {
+        "flight_number": "UA880",
+        "origin": "United States - Chicago",
+        "destination": "United Kingdom - Edinburgh",
+        "departure_time": "5:30 PM",
+        "arrival_time": "5:50 AM",
+        "price": 672,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 767-300ER"
+    },
+    {
+        "flight_number": "AI101",
+        "origin": "India - Delhi",
+        "destination": "United States - New York",
+        "departure_time": "10:00 AM",
+        "arrival_time": "3:30 PM",
+        "price": 853,
+        "logo": "app_files/airline_logos/air_india.png",
+        "aircraft_model": "Boeing 777-200LR"
+    },
+    {
+        "flight_number": "BR32",
+        "origin": "Taiwan - Taipei",
+        "destination": "Australia - Sydney",
+        "departure_time": "12:00 PM",
+        "arrival_time": "11:10 PM",
+        "price": 1293,
+        "logo": "app_files/airline_logos/eva_air.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "SU251",
+        "origin": "Russia - Moscow",
+        "destination": "Italy - Rome",
+        "departure_time": "7:40 AM",
+        "arrival_time": "10:20 AM",
+        "price": 432,
+        "logo": "app_files/airline_logos/aeroflot.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "QF143",
+        "origin": "Australia - Sydney",
+        "destination": "New Zealand - Wellington",
+        "departure_time": "2:10 PM",
+        "arrival_time": "5:00 PM",
+        "price": 364,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "AF083",
+        "origin": "France - Paris",
+        "destination": "South Africa - Johannesburg",
+        "departure_time": "10:30 PM",
+        "arrival_time": "8:00 AM",
+        "price": 835,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "AC087",
+        "origin": "Canada - Toronto",
+        "destination": "United Kingdom - London",
+        "departure_time": "7:00 PM",
+        "arrival_time": "7:00 AM",
+        "price": 589,
+        "logo": "app_files/airline_logos/air_canada.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "EK251",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "India - Delhi",
+        "departure_time": "2:00 AM",
+        "arrival_time": "7:00 AM",
+        "price": 411,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "UA880",
+        "origin": "United States - Chicago",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "5:45 PM",
+        "arrival_time": "8:15 AM",
+        "price": 940,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 767-300ER"
+    },
+    {
+        "flight_number": "NH109",
+        "origin": "Japan - Tokyo",
+        "destination": "United States - Los Angeles",
+        "departure_time": "1:00 PM",
+        "arrival_time": "8:00 AM",
+        "price": 1092,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "AS154",
+        "origin": "United States - Seattle",
+        "destination": "Canada - Vancouver",
+        "departure_time": "9:00 AM",
+        "arrival_time": "10:15 AM",
+        "price": 183,
+        "logo": "app_files/airline_logos/alaska_airlines.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "JL773",
+        "origin": "Japan - Tokyo",
+        "destination": "Australia - Melbourne",
+        "departure_time": "11:30 PM",
+        "arrival_time": "11:00 PM",
+        "price": 1087,
+        "logo": "app_files/airline_logos/japan_airlines.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "IB6251",
+        "origin": "Spain - Madrid",
+        "destination": "United States - Miami",
+        "departure_time": "10:00 AM",
+        "arrival_time": "2:00 PM",
+        "price": 715,
+        "logo": "app_files/airline_logos/iberia.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "LH459",
+        "origin": "Germany - Munich",
+        "destination": "Brazil - São Paulo",
+        "departure_time": "10:00 AM",
+        "arrival_time": "5:00 PM",
+        "price": 882,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A340-600"
+    },
+    {
+        "flight_number": "KQ18",
+        "origin": "Kenya - Nairobi",
+        "destination": "United Kingdom - London",
+        "departure_time": "11:00 PM",
+        "arrival_time": "5:30 AM",
+        "price": 688,
+        "logo": "app_files/airline_logos/kenya_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "TP206",
+        "origin": "Portugal - Lisbon",
+        "destination": "United States - New York",
+        "departure_time": "6:50 PM",
+        "arrival_time": "8:35 PM",
+        "price": 621,
+        "logo": "app_files/airline_logos/tap_air_portugal.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "SU220",
+        "origin": "Russia - Moscow",
+        "destination": "Italy - Rome",
+        "departure_time": "1:00 PM",
+        "arrival_time": "3:55 PM",
+        "price": 498,
+        "logo": "app_files/airline_logos/aeroflot.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "QF144",
+        "origin": "Australia - Sydney",
+        "destination": "New Zealand - Christchurch",
+        "departure_time": "8:15 AM",
+        "arrival_time": "1:00 PM",
+        "price": 320,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "CI071",
+        "origin": "Taiwan - Taipei",
+        "destination": "Japan - Tokyo",
+        "departure_time": "4:10 PM",
+        "arrival_time": "8:00 PM",
+        "price": 356,
+        "logo": "app_files/airline_logos/china_airlines.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "NZ58",
+        "origin": "New Zealand - Auckland",
+        "destination": "China - Guangzhou",
+        "departure_time": "9:30 PM",
+        "arrival_time": "5:20 AM",
+        "price": 860,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "EY405",
+        "origin": "United Arab Emirates - Abu Dhabi",
+        "destination": "India - Mumbai",
+        "departure_time": "9:45 AM",
+        "arrival_time": "1:30 PM",
+        "price": 365,
+        "logo": "app_files/airline_logos/etihad_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "TK10",
+        "origin": "Turkey - Istanbul",
+        "destination": "Italy - Rome",
+        "departure_time": "7:00 AM",
+        "arrival_time": "8:30 AM",
+        "price": 221,
+        "logo": "app_files/airline_logos/turkish_airlines.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "AF167",
+        "origin": "France - Paris",
+        "destination": "Brazil - Rio de Janeiro",
+        "departure_time": "10:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 972,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "DL140",
+        "origin": "United States - New York",
+        "destination": "Italy - Milan",
+        "departure_time": "5:45 PM",
+        "arrival_time": "6:45 AM",
+        "price": 879,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "QR920",
+        "origin": "Qatar - Doha",
+        "destination": "Germany - Munich",
+        "departure_time": "8:10 AM",
+        "arrival_time": "12:15 PM",
+        "price": 743,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "CX705",
+        "origin": "China - Hong Kong",
+        "destination": "Vietnam - Ho Chi Minh City",
+        "departure_time": "11:50 AM",
+        "arrival_time": "1:40 PM",
+        "price": 322,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "LH471",
+        "origin": "Germany - Frankfurt",
+        "destination": "Egypt - Cairo",
+        "departure_time": "9:00 PM",
+        "arrival_time": "1:45 AM",
+        "price": 625,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "QF145",
+        "origin": "Australia - Sydney",
+        "destination": "New Zealand - Wellington",
+        "departure_time": "9:30 AM",
+        "arrival_time": "2:15 PM",
+        "price": 305,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "VA25",
+        "origin": "Australia - Brisbane",
+        "destination": "United States - Los Angeles",
+        "departure_time": "11:00 PM",
+        "arrival_time": "6:00 PM",
+        "price": 720,
+        "logo": "app_files/airline_logos/virgin_australia.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "IB6290",
+        "origin": "Spain - Barcelona",
+        "destination": "Italy - Rome",
+        "departure_time": "7:30 AM",
+        "arrival_time": "9:00 AM",
+        "price": 125,
+        "logo": "app_files/airline_logos/iberia.png",
+        "aircraft_model": "Airbus A319"
+    },
+    {
+        "flight_number": "SK501",
+        "origin": "Sweden - Stockholm",
+        "destination": "Norway - Oslo",
+        "departure_time": "3:15 PM",
+        "arrival_time": "4:15 PM",
+        "price": 180,
+        "logo": "app_files/airline_logos/sas.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "EY101",
+        "origin": "United Arab Emirates - Abu Dhabi",
+        "destination": "Australia - Sydney",
+        "departure_time": "2:00 PM",
+        "arrival_time": "6:30 AM",
+        "price": 1165,
+        "logo": "app_files/airline_logos/etihad_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AF066",
+        "origin": "France - Paris",
+        "destination": "South Africa - Cape Town",
+        "departure_time": "6:15 PM",
+        "arrival_time": "7:45 AM",
+        "price": 934,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A340-300"
+    },
+    {
+        "flight_number": "DL115",
+        "origin": "United States - Atlanta",
+        "destination": "Brazil - São Paulo",
+        "departure_time": "10:00 PM",
+        "arrival_time": "7:30 AM",
+        "price": 835,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "LH430",
+        "origin": "Germany - Munich",
+        "destination": "United States - Chicago",
+        "departure_time": "5:10 PM",
+        "arrival_time": "8:30 PM",
+        "price": 952,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "AI143",
+        "origin": "India - Delhi",
+        "destination": "United Kingdom - London",
+        "departure_time": "11:00 PM",
+        "arrival_time": "4:15 AM",
+        "price": 896,
+        "logo": "app_files/airline_logos/air_india.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "BR307",
+        "origin": "Taiwan - Taipei",
+        "destination": "Japan - Osaka",
+        "departure_time": "2:50 PM",
+        "arrival_time": "8:05 PM",
+        "price": 366,
+        "logo": "app_files/airline_logos/eva_air.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "CX758",
+        "origin": "China - Hong Kong",
+        "destination": "Singapore - Singapore",
+        "departure_time": "3:30 PM",
+        "arrival_time": "6:30 PM",
+        "price": 500,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "MS758",
+        "origin": "Egypt - Cairo",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "5:15 PM",
+        "arrival_time": "9:00 PM",
+        "price": 285,
+        "logo": "app_files/airline_logos/egyptair.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "EY503",
+        "origin": "United Arab Emirates - Abu Dhabi",
+        "destination": "South Africa - Johannesburg",
+        "departure_time": "11:30 PM",
+        "arrival_time": "5:00 AM",
+        "price": 640,
+        "logo": "app_files/airline_logos/etihad_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "QF21",
+        "origin": "Australia - Sydney",
+        "destination": "United Kingdom - London",
+        "departure_time": "6:20 PM",
+        "arrival_time": "5:10 AM",
+        "price": 1192,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "KL617",
+        "origin": "Netherlands - Amsterdam",
+        "destination": "Italy - Rome",
+        "departure_time": "1:45 PM",
+        "arrival_time": "3:35 PM",
+        "price": 200,
+        "logo": "app_files/airline_logos/klm.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "AC855",
+        "origin": "Canada - Vancouver",
+        "destination": "United States - San Francisco",
+        "departure_time": "8:30 AM",
+        "arrival_time": "10:00 AM",
+        "price": 210,
+        "logo": "app_files/airline_logos/air_canada.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "UA104",
+        "origin": "United States - New York",
+        "destination": "United Kingdom - London",
+        "departure_time": "10:30 AM",
+        "arrival_time": "10:00 PM",
+        "price": 850,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "DL327",
+        "origin": "United States - New York",
+        "destination": "France - Paris",
+        "departure_time": "11:00 AM",
+        "arrival_time": "10:45 PM",
+        "price": 750,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "AA528",
+        "origin": "United States - Miami",
+        "destination": "Brazil - São Paulo",
+        "departure_time": "12:00 PM",
+        "arrival_time": "10:30 PM",
+        "price": 950,
+        "logo": "app_files/airline_logos/american_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "LH791",
+        "origin": "Germany - Frankfurt",
+        "destination": "Japan - Tokyo",
+        "departure_time": "1:00 PM",
+        "arrival_time": "7:30 AM",
+        "price": 1200,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "QF9",
+        "origin": "Australia - Sydney",
+        "destination": "United Kingdom - London",
+        "departure_time": "2:00 PM",
+        "arrival_time": "6:30 AM",
+        "price": 1400,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AF76",
+        "origin": "France - Paris",
+        "destination": "Italy - Rome",
+        "departure_time": "3:00 PM",
+        "arrival_time": "4:15 PM",
+        "price": 200,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "NZ482",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Melbourne",
+        "departure_time": "4:00 PM",
+        "arrival_time": "6:30 PM",
+        "price": 300,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "CX830",
+        "origin": "China - Hong Kong",
+        "destination": "Japan - Tokyo",
+        "departure_time": "5:00 PM",
+        "arrival_time": "10:30 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "BA217",
+        "origin": "United Kingdom - London",
+        "destination": "Germany - Berlin",
+        "departure_time": "6:00 PM",
+        "arrival_time": "8:30 PM",
+        "price": 320,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "AS876",
+        "origin": "United States - Seattle",
+        "destination": "Canada - Vancouver",
+        "departure_time": "7:00 PM",
+        "arrival_time": "8:15 PM",
+        "price": 180,
+        "logo": "app_files/airline_logos/alaska_airlines.png",
+        "aircraft_model": "Embraer E175"
+    },
+    {
+        "flight_number": "JL730",
+        "origin": "Japan - Tokyo",
+        "destination": "Australia - Sydney",
+        "departure_time": "8:00 PM",
+        "arrival_time": "8:30 AM",
+        "price": 1300,
+        "logo": "app_files/airline_logos/japan_airlines.png",
+        "aircraft_model": "Boeing 787-8"
+    },
+    {
+        "flight_number": "EK209",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "India - Mumbai",
+        "departure_time": "9:00 PM",
+        "arrival_time": "2:30 AM",
+        "price": 500,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "SV789",
+        "origin": "Saudi Arabia - Riyadh",
+        "destination": "Egypt - Cairo",
+        "departure_time": "10:00 PM",
+        "arrival_time": "12:15 AM",
+        "price": 450,
+        "logo": "app_files/airline_logos/saudi_arabian_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "VA244",
+        "origin": "Australia - Melbourne",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "11:00 PM",
+        "arrival_time": "4:30 AM",
+        "price": 350,
+        "logo": "app_files/airline_logos/virgin_australia.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "NH181",
+        "origin": "Japan - Tokyo",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "12:00 AM",
+        "arrival_time": "5:30 AM",
+        "price": 800,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AF32",
+        "origin": "France - Paris",
+        "destination": "China - Beijing",
+        "departure_time": "1:00 AM",
+        "arrival_time": "6:30 PM",
+        "price": 600,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "BA29",
+        "origin": "United Kingdom - London",
+        "destination": "Australia - Sydney",
+        "departure_time": "2:00 AM",
+        "arrival_time": "6:30 PM",
+        "price": 1500,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "CX889",
+        "origin": "China - Hong Kong",
+        "destination": "Singapore - Singapore",
+        "departure_time": "3:00 AM",
+        "arrival_time": "7:30 AM",
+        "price": 350,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "DL97",
+        "origin": "United States - New York",
+        "destination": "Italy - Rome",
+        "departure_time": "4:00 AM",
+        "arrival_time": "6:30 PM",
+        "price": 800,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "QF25",
+        "origin": "Australia - Sydney",
+        "destination": "Japan - Tokyo",
+        "departure_time": "5:00 AM",
+        "arrival_time": "12:30 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AC772",
+        "origin": "Canada - Toronto",
+        "destination": "United States - Chicago",
+        "departure_time": "6:00 AM",
+        "arrival_time": "7:30 AM",
+        "price": 250,
+        "logo": "app_files/airline_logos/air_canada.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "EK27",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "Australia - Sydney",
+        "departure_time": "7:00 AM",
+        "arrival_time": "10:00 PM",
+        "price": 1400,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "SV40",
+        "origin": "Saudi Arabia - Jeddah",
+        "destination": "France - Paris",
+        "departure_time": "8:00 AM",
+        "arrival_time": "12:00 PM",
+        "price": 500,
+        "logo": "app_files/airline_logos/saudi_arabian_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "AF180",
+        "origin": "France - Paris",
+        "destination": "China - Shanghai",
+        "departure_time": "9:00 AM",
+        "arrival_time": "5:00 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "NH9",
+        "origin": "Japan - Tokyo",
+        "destination": "United States - Los Angeles",
+        "departure_time": "10:00 AM",
+        "arrival_time": "6:00 AM",
+        "price": 1100,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "BA32",
+        "origin": "United Kingdom - London",
+        "destination": "South Africa - Johannesburg",
+        "departure_time": "11:00 AM",
+        "arrival_time": "10:30 PM",
+        "price": 900,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "QF8",
+        "origin": "Australia - Sydney",
+        "destination": "United States - Los Angeles",
+        "departure_time": "12:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 1200,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "DL226",
+        "origin": "United States - San Francisco",
+        "destination": "Canada - Vancouver",
+        "departure_time": "9:15 AM",
+        "arrival_time": "11:00 AM",
+        "price": 220,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "UA950",
+        "origin": "United States - Chicago",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 PM",
+        "price": 800,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "AA58",
+        "origin": "United States - Dallas",
+        "destination": "Brazil - Rio de Janeiro",
+        "departure_time": "11:00 AM",
+        "arrival_time": "8:00 PM",
+        "price": 950,
+        "logo": "app_files/airline_logos/american_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "LH464",
+        "origin": "Germany - Munich",
+        "destination": "United States - New York",
+        "departure_time": "12:00 PM",
+        "arrival_time": "3:00 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "AF82",
+        "origin": "France - Paris",
+        "destination": "South Africa - Cape Town",
+        "departure_time": "1:00 PM",
+        "arrival_time": "11:30 PM",
+        "price": 900,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "QF16",
+        "origin": "Australia - Sydney",
+        "destination": "Japan - Tokyo",
+        "departure_time": "2:00 PM",
+        "arrival_time": "10:00 PM",
+        "price": 750,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "BA137",
+        "origin": "United Kingdom - London",
+        "destination": "United States - Miami",
+        "departure_time": "3:00 PM",
+        "arrival_time": "8:00 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "NH172",
+        "origin": "Japan - Tokyo",
+        "destination": "Australia - Melbourne",
+        "departure_time": "4:00 PM",
+        "arrival_time": "11:00 PM",
+        "price": 1100,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "DL75",
+        "origin": "United States - New York",
+        "destination": "Italy - Milan",
+        "departure_time": "5:00 PM",
+        "arrival_time": "6:30 AM",
+        "price": 800,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "CX872",
+        "origin": "China - Hong Kong",
+        "destination": "Singapore - Singapore",
+        "departure_time": "6:00 PM",
+        "arrival_time": "11:00 PM",
+        "price": 350,
+        "logo": "app_files/app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "UA902",
+        "origin": "United States - San Francisco",
+        "destination": "Japan - Tokyo",
+        "departure_time": "7:00 PM",
+        "arrival_time": "11:30 PM",
+        "price": 900,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "EK364",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "India - Delhi",
+        "departure_time": "8:00 PM",
+        "arrival_time": "1:00 AM",
+        "price": 500,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "BA209",
+        "origin": "United Kingdom - London",
+        "destination": "Spain - Madrid",
+        "departure_time": "9:00 PM",
+        "arrival_time": "11:15 PM",
+        "price": 250,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "AF184",
+        "origin": "France - Paris",
+        "destination": "United States - New York",
+        "departure_time": "10:00 PM",
+        "arrival_time": "11:45 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "QF28",
+        "origin": "Australia - Sydney",
+        "destination": "United States - Los Angeles",
+        "departure_time": "11:00 PM",
+        "arrival_time": "6:00 PM",
+        "price": 1200,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "QF158",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Melbourne",
+        "departure_time": "2:30 PM",
+        "arrival_time": "6:55 PM",
+        "price": 147,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "NZ187",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Gold Coast",
+        "departure_time": "10:15 AM",
+        "arrival_time": "2:20 PM",
+        "price": 134,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "JQ214",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Melbourne",
+        "departure_time": "1:30 PM",
+        "arrival_time": "5:05 PM",
+        "price": 127,
+        "logo": "app_files/airline_logos/jetstar.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "QR921",
+        "origin": "New Zealand - Auckland",
+        "destination": "Qatar - Doha",
+        "departure_time": "8:30 AM",
+        "arrival_time": "9:25 AM",
+        "price": 1183,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Boeing 777-200LR"
+    },
+    {
+        "flight_number": "NZ4",
+        "origin": "New Zealand - Auckland",
+        "destination": "United States - Los Angeles",
+        "departure_time": "10:00 AM",
+        "arrival_time": "6:00 AM",
+        "price": 1446,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "CX114",
+        "origin": "New Zealand - Auckland",
+        "destination": "China - Hong Kong",
+        "departure_time": "2:30 PM",
+        "arrival_time": "9:15 PM",
+        "price": 1523,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "CA784",
+        "origin": "New Zealand - Auckland",
+        "destination": "China - Beijing",
+        "departure_time": "7:00 AM",
+        "arrival_time": "11:30 PM",
+        "price": 1437,
+        "logo": "app_files/airline_logos/air_china.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "QF139",
+        "origin": "Australia - Sydney",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "1:30 PM",
+        "arrival_time": "5:15 PM",
+        "price": 237,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "QF153",
+        "origin": "Australia - Melbourne",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "10:00 AM",
+        "arrival_time": "2:15 PM",
+        "price": 243,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "JQ203",
+        "origin": "Australia - Sydney",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "10:30 AM",
+        "arrival_time": "2:20 PM",
+        "price": 132,
+        "logo": "app_files/airline_logos/jetstar.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "NZ82",
+        "origin": "China - Hong Kong",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "11:30 PM",
+        "arrival_time": "1:00 PM",
+        "price": 1631,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "CX199",
+        "origin": "China - Hong Kong",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "3:30 PM",
+        "arrival_time": "6:45 AM",
+        "price": 1427,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "AA101",
+        "origin": "United Kingdom - London",
+        "destination": "United States - New York",
+        "departure_time": "10:00 AM",
+        "arrival_time": "1:00 PM",
+        "price": 843,
+        "logo": "app_files/airline_logos/american_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "BA113",
+        "origin": "United States - Los Angeles",
+        "destination": "United Kingdom - London",
+        "departure_time": "4:15 PM",
+        "arrival_time": "10:45 AM",
+        "price": 757,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "DL110",
+        "origin": "Japan - Tokyo",
+        "destination": "United States - Los Angeles",
+        "departure_time": "11:55 AM",
+        "arrival_time": "5:05 AM",
+        "price": 956,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "AF007",
+        "origin": "United States - New York",
+        "destination": "France - Paris",
+        "departure_time": "9:15 PM",
+        "arrival_time": "10:55 AM",
+        "price": 725,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "JL38",
+        "origin": "Australia - Sydney",
+        "destination": "Japan - Tokyo",
+        "departure_time": "8:10 PM",
+        "arrival_time": "5:40 AM",
+        "price": 952,
+        "logo": "app_files/airline_logos/japan_airlines.png",
+        "aircraft_model": "Boeing 787-8"
+    },
+    {
+        "flight_number": "LH402",
+        "origin": "United States - Chicago",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "6:00 PM",
+        "arrival_time": "8:30 AM",
+        "price": 783,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "SQ634",
+        "origin": "United States - San Francisco",
+        "destination": "Singapore - Singapore",
+        "departure_time": "9:30 PM",
+        "arrival_time": "4:20 AM",
+        "price": 1157,
+        "logo": "app_files/airline_logos/singapore_airlines.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "EK216",
+        "origin": "Australia - Melbourne",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "1:30 AM",
+        "arrival_time": "9:45 AM",
+        "price": 1124,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "QR725",
+        "origin": "United States - Miami",
+        "destination": "Qatar - Doha",
+        "departure_time": "3:45 PM",
+        "arrival_time": "11:55 AM",
+        "price": 952,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "VA2",
+        "origin": "United States - Los Angeles",
+        "destination": "Australia - Sydney",
+        "departure_time": "10:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 721,
+        "logo": "app_files/airline_logos/virgin_australia.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "NZ6",
+        "origin": "China - Shanghai",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:55 PM",
+        "price": 854,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "KQ11",
+        "origin": "South Africa - Johannesburg",
+        "destination": "Kenya - Nairobi",
+        "departure_time": "3:05 PM",
+        "arrival_time": "7:00 PM",
+        "price": 355,
+        "logo": "app_files/airline_logos/kenya_airways.png",
+        "aircraft_model": "Boeing 787-8"
+    },
+    {
+        "flight_number": "SA235",
+        "origin": "United Kingdom - London",
+        "destination": "South Africa - Johannesburg",
+        "departure_time": "8:00 PM",
+        "arrival_time": "6:15 AM",
+        "price": 683,
+        "logo": "app_files/airline_logos/south_african_airways.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "MH84",
+        "origin": "Australia - Melbourne",
+        "destination": "Malaysia - Kuala Lumpur",
+        "departure_time": "11:05 AM",
+        "arrival_time": "4:30 PM",
+        "price": 680,
+        "logo": "app_files/airline_logos/malaysia_airlines.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "BR28",
+        "origin": "United States - Los Angeles",
+        "destination": "Taiwan - Taipei",
+        "departure_time": "3:50 PM",
+        "arrival_time": "10:30 PM",
+        "price": 870,
+        "logo": "app_files/airline_logos/eva_air.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "NZ373",
+        "origin": "Australia - Brisbane",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "10:05 AM",
+        "arrival_time": "3:25 PM",
+        "price": 210,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "AY22",
+        "origin": "United States - New York",
+        "destination": "Finland - Helsinki",
+        "departure_time": "5:35 PM",
+        "arrival_time": "7:45 AM",
+        "price": 792,
+        "logo": "app_files/airline_logos/finnair.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "TK7",
+        "origin": "United States - New York",
+        "destination": "Turkey - Istanbul",
+        "departure_time": "6:30 PM",
+        "arrival_time": "10:15 AM",
+        "price": 672,
+        "logo": "app_files/airline_logos/turkish_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "AY79",
+        "origin": "Japan - Tokyo",
+        "destination": "Finland - Helsinki",
+        "departure_time": "11:20 AM",
+        "arrival_time": "5:00 PM",
+        "price": 854,
+        "logo": "app_files/airline_logos/finnair.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "UX89",
+        "origin": "United States - Miami",
+        "destination": "Spain - Madrid",
+        "departure_time": "8:45 PM",
+        "arrival_time": "11:45 AM",
+        "price": 640,
+        "logo": "app_files/airline_logos/air_europa.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "LH463",
+        "origin": "Brazil - São Paulo",
+        "destination": "Germany - Munich",
+        "departure_time": "10:45 PM",
+        "arrival_time": "3:05 PM",
+        "price": 856,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "MS986",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "Egypt - Cairo",
+        "departure_time": "9:00 PM",
+        "arrival_time": "1:00 AM",
+        "price": 300,
+        "logo": "app_files/airline_logos/egyptair.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "CA982",
+        "origin": "Canada - Vancouver",
+        "destination": "China - Beijing",
+        "departure_time": "1:00 PM",
+        "arrival_time": "3:30 PM",
+        "price": 1310,
+        "logo": "app_files/airline_logos/air_china.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "NH802",
+        "origin": "South Korea - Seoul",
+        "destination": "Japan - Tokyo",
+        "departure_time": "12:50 PM",
+        "arrival_time": "2:45 PM",
+        "price": 357,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "NZ773",
+        "origin": "Australia - Brisbane",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "12:00 PM",
+        "arrival_time": "5:00 PM",
+        "price": 220,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "EK502",
+        "origin": "India - Mumbai",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "10:30 AM",
+        "arrival_time": "12:45 PM",
+        "price": 573,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "QR20",
+        "origin": "France - Paris",
+        "destination": "Qatar - Doha",
+        "departure_time": "10:05 AM",
+        "arrival_time": "5:45 PM",
+        "price": 643,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "LH577",
+        "origin": "South Africa - Cape Town",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "11:00 AM",
+        "arrival_time": "10:30 PM",
+        "price": 851,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A340-600"
+    },
+    {
+        "flight_number": "UA881",
+        "origin": "United Kingdom - Edinburgh",
+        "destination": "United States - Chicago",
+        "departure_time": "6:00 PM",
+        "arrival_time": "7:30 PM",
+        "price": 672,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 767-300ER"
+    },
+    {
+        "flight_number": "AI102",
+        "origin": "United States - New York",
+        "destination": "India - Delhi",
+        "departure_time": "6:00 PM",
+        "arrival_time": "8:30 AM",
+        "price": 853,
+        "logo": "app_files/airline_logos/air_india.png",
+        "aircraft_model": "Boeing 777-200LR"
+    },
+    {
+        "flight_number": "BR33",
+        "origin": "Australia - Sydney",
+        "destination": "Taiwan - Taipei",
+        "departure_time": "2:30 PM",
+        "arrival_time": "7:10 PM",
+        "price": 1293,
+        "logo": "app_files/airline_logos/eva_air.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "SU252",
+        "origin": "Italy - Rome",
+        "destination": "Russia - Moscow",
+        "departure_time": "11:00 AM",
+        "arrival_time": "3:40 PM",
+        "price": 432,
+        "logo": "app_files/airline_logos/aeroflot.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "QF144",
+        "origin": "New Zealand - Wellington",
+        "destination": "Australia - Sydney",
+        "departure_time": "6:00 PM",
+        "arrival_time": "7:50 PM",
+        "price": 364,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "AF084",
+        "origin": "South Africa - Johannesburg",
+        "destination": "France - Paris",
+        "departure_time": "9:00 AM",
+        "arrival_time": "5:30 PM",
+        "price": 835,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "AC088",
+        "origin": "United Kingdom - London",
+        "destination": "Canada - Toronto",
+        "departure_time": "8:00 PM",
+        "arrival_time": "10:00 PM",
+        "price": 589,
+        "logo": "app_files/airline_logos/air_canada.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "EK252",
+        "origin": "India - Delhi",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "8:00 AM",
+        "arrival_time": "9:30 AM",
+        "price": 411,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "UA881",
+        "origin": "Germany - Frankfurt",
+        "destination": "United States - Chicago",
+        "departure_time": "9:00 AM",
+        "arrival_time": "11:30 AM",
+        "price": 940,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 767-300ER"
+    },
+    {
+        "flight_number": "NH110",
+        "origin": "United States - Los Angeles",
+        "destination": "Japan - Tokyo",
+        "departure_time": "11:30 AM",
+        "arrival_time": "5:00 PM",
+        "price": 1092,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "AS155",
+        "origin": "Canada - Vancouver",
+        "destination": "United States - Seattle",
+        "departure_time": "11:00 AM",
+        "arrival_time": "12:15 PM",
+        "price": 183,
+        "logo": "app_files/airline_logos/alaska_airlines.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "JL774",
+        "origin": "Australia - Melbourne",
+        "destination": "Japan - Tokyo",
+        "departure_time": "1:00 PM",
+        "arrival_time": "6:00 PM",
+        "price": 1087,
+        "logo": "app_files/airline_logos/japan_airlines.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "IB6252",
+        "origin": "United States - Miami",
+        "destination": "Spain - Madrid",
+        "departure_time": "4:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 715,
+        "logo": "app_files/airline_logos/iberia.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "LH460",
+        "origin": "Brazil - São Paulo",
+        "destination": "Germany - Munich",
+        "departure_time": "11:30 PM",
+        "arrival_time": "10:00 AM",
+        "price": 882,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A340-600"
+    },
+    {
+        "flight_number": "KQ19",
+        "origin": "United Kingdom - London",
+        "destination": "Kenya - Nairobi",
+        "departure_time": "10:30 AM",
+        "arrival_time": "8:00 PM",
+        "price": 688,
+        "logo": "app_files/airline_logos/kenya_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "TP207",
+        "origin": "United States - New York",
+        "destination": "Portugal - Lisbon",
+        "departure_time": "9:00 AM",
+        "arrival_time": "6:00 PM",
+        "price": 621,
+        "logo": "app_files/airline_logos/tap_air_portugal.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "SU221",
+        "origin": "Italy - Rome",
+        "destination": "Russia - Moscow",
+        "departure_time": "7:00 PM",
+        "arrival_time": "10:45 PM",
+        "price": 498,
+        "logo": "app_files/airline_logos/aeroflot.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "QF145",
+        "origin": "New Zealand - Christchurch",
+        "destination": "Australia - Sydney",
+        "departure_time": "2:00 PM",
+        "arrival_time": "4:15 PM",
+        "price": 320,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "CI072",
+        "origin": "Japan - Tokyo",
+        "destination": "Taiwan - Taipei",
+        "departure_time": "1:00 PM",
+        "arrival_time": "4:50 PM",
+        "price": 356,
+        "logo": "app_files/airline_logos/china_airlines.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "NZ59",
+        "origin": "China - Guangzhou",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "6:00 PM",
+        "arrival_time": "5:20 AM",
+        "price": 860,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "EY406",
+        "origin": "India - Mumbai",
+        "destination": "United Arab Emirates - Abu Dhabi",
+        "departure_time": "2:30 PM",
+        "arrival_time": "4:15 PM",
+        "price": 365,
+        "logo": "app_files/airline_logos/etihad_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "TK11",
+        "origin": "Italy - Rome",
+        "destination": "Turkey - Istanbul",
+        "departure_time": "9:30 AM",
+        "arrival_time": "12:00 PM",
+        "price": 221,
+        "logo": "app_files/airline_logos/turkish_airlines.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "AF168",
+        "origin": "Brazil - Rio de Janeiro",
+        "destination": "France - Paris",
+        "departure_time": "8:00 AM",
+        "arrival_time": "4:00 PM",
+        "price": 972,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "DL141",
+        "origin": "Italy - Milan",
+        "destination": "United States - New York",
+        "departure_time": "9:15 AM",
+        "arrival_time": "12:15 PM",
+        "price": 879,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "QR921",
+        "origin": "Germany - Munich",
+        "destination": "Qatar - Doha",
+        "departure_time": "2:00 PM",
+        "arrival_time": "6:05 PM",
+        "price": 743,
+        "logo": "app_files/airline_logos/qatar_airways.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "CX706",
+        "origin": "Vietnam - Ho Chi Minh City",
+        "destination": "China - Hong Kong",
+        "departure_time": "3:30 PM",
+        "arrival_time": "5:20 PM",
+        "price": 322,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "LH472",
+        "origin": "Egypt - Cairo",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "3:00 AM",
+        "arrival_time": "7:45 AM",
+        "price": 625,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "QF146",
+        "origin": "New Zealand - Wellington",
+        "destination": "Australia - Sydney",
+        "departure_time": "3:00 PM",
+        "arrival_time": "8:00 PM",
+        "price": 305,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "VA26",
+        "origin": "United States - Los Angeles",
+        "destination": "Australia - Brisbane",
+        "departure_time": "7:15 PM",
+        "arrival_time": "6:00 AM",
+        "price": 720,
+        "logo": "app_files/airline_logos/virgin_australia.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "IB6291",
+        "origin": "Italy - Rome",
+        "destination": "Spain - Barcelona",
+        "departure_time": "10:00 AM",
+        "arrival_time": "11:30 AM",
+        "price": 125,
+        "logo": "app_files/airline_logos/iberia.png",
+        "aircraft_model": "Airbus A319"
+    },
+    {
+        "flight_number": "SK502",
+        "origin": "Norway - Oslo",
+        "destination": "Sweden - Stockholm",
+        "departure_time": "5:00 PM",
+        "arrival_time": "6:00 PM",
+        "price": 180,
+        "logo": "app_files/airline_logos/sas.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "EY102",
+        "origin": "Australia - Sydney",
+        "destination": "United Arab Emirates - Abu Dhabi",
+        "departure_time": "7:30 PM",
+        "arrival_time": "1:15 AM",
+        "price": 1165,
+        "logo": "app_files/airline_logos/etihad_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AF067",
+        "origin": "South Africa - Cape Town",
+        "destination": "France - Paris",
+        "departure_time": "8:30 PM",
+        "arrival_time": "6:30 AM",
+        "price": 934,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A340-300"
+    },
+    {
+        "flight_number": "DL116",
+        "origin": "Brazil - São Paulo",
+        "destination": "United States - Atlanta",
+        "departure_time": "9:00 AM",
+        "arrival_time": "6:30 PM",
+        "price": 835,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "LH431",
+        "origin": "United States - Chicago",
+        "destination": "Germany - Munich",
+        "departure_time": "10:00 AM",
+        "arrival_time": "3:20 PM",
+        "price": 952,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "AI144",
+        "origin": "United Kingdom - London",
+        "destination": "India - Delhi",
+        "departure_time": "8:00 PM",
+        "arrival_time": "7:10 AM",
+        "price": 896,
+        "logo": "app_files/airline_logos/air_india.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "BR308",
+        "origin": "Japan - Osaka",
+        "destination": "Taiwan - Taipei",
+        "departure_time": "9:00 AM",
+        "arrival_time": "2:15 PM",
+        "price": 366,
+        "logo": "app_files/airline_logos/eva_air.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "CX759",
+        "origin": "Singapore - Singapore",
+        "destination": "China - Hong Kong",
+        "departure_time": "8:00 PM",
+        "arrival_time": "11:00 PM",
+        "price": 500,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "MS759",
+        "origin": "United Arab Emirates - Dubai",
+        "destination": "Egypt - Cairo",
+        "departure_time": "11:00 PM",
+        "arrival_time": "1:45 AM",
+        "price": 285,
+        "logo": "app_files/airline_logos/egyptair.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "EY504",
+        "origin": "South Africa - Johannesburg",
+        "destination": "United Arab Emirates - Abu Dhabi",
+        "departure_time": "6:00 AM",
+        "arrival_time": "12:30 PM",
+        "price": 640,
+        "logo": "app_files/airline_logos/etihad_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "QF22",
+        "origin": "United Kingdom - London",
+        "destination": "Australia - Sydney",
+        "departure_time": "11:30 AM",
+        "arrival_time": "5:10 AM",
+        "price": 1192,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "KL618",
+        "origin": "Italy - Rome",
+        "destination": "Netherlands - Amsterdam",
+        "departure_time": "4:00 PM",
+        "arrival_time": "6:05 PM",
+        "price": 200,
+        "logo": "app_files/airline_logos/klm.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "AC856",
+        "origin": "United States - San Francisco",
+        "destination": "Canada - Vancouver",
+        "departure_time": "11:30 AM",
+        "arrival_time": "1:00 PM",
+        "price": 210,
+        "logo": "app_files/airline_logos/air_canada.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "UA105",
+        "origin": "United Kingdom - London",
+        "destination": "United States - New York",
+        "departure_time": "7:00 PM",
+        "arrival_time": "9:30 PM",
+        "price": 850,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "DL328",
+        "origin": "France - Paris",
+        "destination": "United States - New York",
+        "departure_time": "6:00 PM",
+        "arrival_time": "5:45 PM",
+        "price": 750,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "AA529",
+        "origin": "Brazil - São Paulo",
+        "destination": "United States - Miami",
+        "departure_time": "11:00 PM",
+        "arrival_time": "7:30 AM",
+        "price": 950,
+        "logo": "app_files/airline_logos/american_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "LH792",
+        "origin": "Japan - Tokyo",
+        "destination": "Germany - Frankfurt",
+        "departure_time": "10:00 AM",
+        "arrival_time": "3:30 PM",
+        "price": 1200,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "QF10",
+        "origin": "United Kingdom - London",
+        "destination": "Australia - Sydney",
+        "departure_time": "8:00 PM",
+        "arrival_time": "5:30 PM",
+        "price": 1400,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AF77",
+        "origin": "Italy - Rome",
+        "destination": "France - Paris",
+        "departure_time": "5:00 PM",
+        "arrival_time": "6:15 PM",
+        "price": 200,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "NZ483",
+        "origin": "Australia - Melbourne",
+        "destination": "New Zealand - Auckland",
+        "departure_time": "9:00 AM",
+        "arrival_time": "11:30 AM",
+        "price": 300,
+        "logo": "app_files/airline_logos/air_new_zealand.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "CX831",
+        "origin": "Japan - Tokyo",
+        "destination": "China - Hong Kong",
+        "departure_time": "11:00 AM",
+        "arrival_time": "4:30 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "BA218",
+        "origin": "Germany - Berlin",
+        "destination": "United Kingdom - London",
+        "departure_time": "9:00 AM",
+        "arrival_time": "10:30 AM",
+        "price": 320,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "AS877",
+        "origin": "Canada - Vancouver",
+        "destination": "United States - Seattle",
+        "departure_time": "6:00 AM",
+        "arrival_time": "7:15 AM",
+        "price": 180,
+        "logo": "app_files/airline_logos/alaska_airlines.png",
+        "aircraft_model": "Embraer E175"
+    },
+    {
+        "flight_number": "JL731",
+        "origin": "Australia - Sydney",
+        "destination": "Japan - Tokyo",
+        "departure_time": "11:00 PM",
+        "arrival_time": "7:30 AM",
+        "price": 1300,
+        "logo": "app_files/airline_logos/japan_airlines.png",
+        "aircraft_model": "Boeing 787-8"
+    },
+    {
+        "flight_number": "EK210",
+        "origin": "India - Mumbai",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "4:30 AM",
+        "arrival_time": "7:00 AM",
+        "price": 500,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "SV790",
+        "origin": "Egypt - Cairo",
+        "destination": "Saudi Arabia - Riyadh",
+        "departure_time": "1:00 AM",
+        "arrival_time": "3:15 AM",
+        "price": 450,
+        "logo": "app_files/airline_logos/saudi_arabian_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "VA245",
+        "origin": "New Zealand - Auckland",
+        "destination": "Australia - Melbourne",
+        "departure_time": "6:00 AM",
+        "arrival_time": "11:30 AM",
+        "price": 350,
+        "logo": "app_files/airline_logos/virgin_australia.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "NH182",
+        "origin": "Germany - Frankfurt",
+        "destination": "Japan - Tokyo",
+        "departure_time": "9:30 PM",
+        "arrival_time": "5:00 PM",
+        "price": 800,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AF33",
+        "origin": "China - Beijing",
+        "destination": "France - Paris",
+        "departure_time": "9:00 AM",
+        "arrival_time": "2:30 PM",
+        "price": 600,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "BA30",
+        "origin": "Australia - Sydney",
+        "destination": "United Kingdom - London",
+        "departure_time": "10:00 AM",
+        "arrival_time": "5:00 PM",
+        "price": 1500,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "CX890",
+        "origin": "Singapore - Singapore",
+        "destination": "China - Hong Kong",
+        "departure_time": "12:00 PM",
+        "arrival_time": "4:30 PM",
+        "price": 350,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "DL98",
+        "origin": "Italy - Rome",
+        "destination": "United States - New York",
+        "departure_time": "7:00 PM",
+        "arrival_time": "9:30 AM",
+        "price": 800,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "QF26",
+        "origin": "Japan - Tokyo",
+        "destination": "Australia - Sydney",
+        "departure_time": "6:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 700,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "AC773",
+        "origin": "United States - Chicago",
+        "destination": "Canada - Toronto",
+        "departure_time": "8:00 AM",
+        "arrival_time": "11:30 AM",
+        "price": 250,
+        "logo": "app_files/airline_logos/air_canada.png",
+        "aircraft_model": "Airbus A321"
+    },
+    {
+        "flight_number": "EK28",
+        "origin": "Australia - Sydney",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "1:00 AM",
+        "arrival_time": "8:00 AM",
+        "price": 1400,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "SV41",
+        "origin": "France - Paris",
+        "destination": "Saudi Arabia - Jeddah",
+        "departure_time": "3:00 PM",
+        "arrival_time": "9:00 PM",
+        "price": 500,
+        "logo": "app_files/airline_logos/saudi_arabian_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "AF181",
+        "origin": "China - Shanghai",
+        "destination": "France - Paris",
+        "departure_time": "7:00 PM",
+        "arrival_time": "12:00 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "NH10",
+        "origin": "United States - Los Angeles",
+        "destination": "Japan - Tokyo",
+        "departure_time": "7:00 PM",
+        "arrival_time": "11:30 PM",
+        "price": 1100,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "BA33",
+        "origin": "South Africa - Johannesburg",
+        "destination": "United Kingdom - London",
+        "departure_time": "8:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 900,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "QF7",
+        "origin": "United States - Los Angeles",
+        "destination": "Australia - Sydney",
+        "departure_time": "11:30 AM",
+        "arrival_time": "7:30 PM",
+        "price": 1200,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "DL227",
+        "origin": "Canada - Vancouver",
+        "destination": "United States - San Francisco",
+        "departure_time": "2:00 PM",
+        "arrival_time": "3:45 PM",
+        "price": 220,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Airbus A320"
+    },
+    {
+        "flight_number": "UA951",
+        "origin": "Germany - Frankfurt",
+        "destination": "United States - Chicago",
+        "departure_time": "4:30 PM",
+        "arrival_time": "6:00 PM",
+        "price": 800,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "AA59",
+        "origin": "Brazil - Rio de Janeiro",
+        "destination": "United States - Dallas",
+        "departure_time": "9:00 PM",
+        "arrival_time": "6:00 AM",
+        "price": 950,
+        "logo": "app_files/airline_logos/american_airlines.png",
+        "aircraft_model": "Boeing 777-300ER"
+    },
+    {
+        "flight_number": "LH465",
+        "origin": "United States - New York",
+        "destination": "Germany - Munich",
+        "departure_time": "4:00 PM",
+        "arrival_time": "5:30 AM",
+        "price": 700,
+        "logo": "app_files/airline_logos/lufthansa.png",
+        "aircraft_model": "Airbus A330-300"
+    },
+    {
+        "flight_number": "AF83",
+        "origin": "South Africa - Cape Town",
+        "destination": "France - Paris",
+        "departure_time": "5:00 PM",
+        "arrival_time": "11:00 PM",
+        "price": 900,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "QF17",
+        "origin": "Japan - Tokyo",
+        "destination": "Australia - Sydney",
+        "departure_time": "7:00 AM",
+        "arrival_time": "4:00 PM",
+        "price": 750,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "BA138",
+        "origin": "United States - Miami",
+        "destination": "United Kingdom - London",
+        "departure_time": "10:00 AM",
+        "arrival_time": "10:00 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 777-200"
+    },
+    {
+        "flight_number": "NH171",
+        "origin": "Australia - Melbourne",
+        "destination": "Japan - Tokyo",
+        "departure_time": "1:00 PM",
+        "arrival_time": "7:30 PM",
+        "price": 1100,
+        "logo": "app_files/airline_logos/all_nippon_airways.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "DL76",
+        "origin": "Italy - Milan",
+        "destination": "United States - New York",
+        "departure_time": "8:30 AM",
+        "arrival_time": "11:00 AM",
+        "price": 800,
+        "logo": "app_files/airline_logos/delta.png",
+        "aircraft_model": "Boeing 767-300"
+    },
+    {
+        "flight_number": "CX873",
+        "origin": "Singapore - Singapore",
+        "destination": "China - Hong Kong",
+        "departure_time": "1:30 PM",
+        "arrival_time": "6:00 PM",
+        "price": 350,
+        "logo": "app_files/airline_logos/cathay_pacific.png",
+        "aircraft_model": "Airbus A350-900"
+    },
+    {
+        "flight_number": "UA903",
+        "origin": "Japan - Tokyo",
+        "destination": "United States - San Francisco",
+        "departure_time": "8:00 AM",
+        "arrival_time": "12:30 PM",
+        "price": 900,
+        "logo": "app_files/airline_logos/united_airlines.png",
+        "aircraft_model": "Boeing 787-9"
+    },
+    {
+        "flight_number": "EK365",
+        "origin": "India - Delhi",
+        "destination": "United Arab Emirates - Dubai",
+        "departure_time": "2:00 AM",
+        "arrival_time": "5:00 AM",
+        "price": 500,
+        "logo": "app_files/airline_logos/emirates.png",
+        "aircraft_model": "Airbus A380-800"
+    },
+    {
+        "flight_number": "BA210",
+        "origin": "Spain - Madrid",
+        "destination": "United Kingdom - London",
+        "departure_time": "12:00 PM",
+        "arrival_time": "1:15 PM",
+        "price": 250,
+        "logo": "app_files/airline_logos/british_airways.png",
+        "aircraft_model": "Boeing 737-800"
+    },
+    {
+        "flight_number": "AF185",
+        "origin": "United States - New York",
+        "destination": "France - Paris",
+        "departure_time": "8:00 PM",
+        "arrival_time": "9:45 PM",
+        "price": 700,
+        "logo": "app_files/airline_logos/air_france.png",
+        "aircraft_model": "Airbus A330-200"
+    },
+    {
+        "flight_number": "QF29",
+        "origin": "United States - Los Angeles",
+        "destination": "Australia - Sydney",
+        "departure_time": "11:30 AM",
+        "arrival_time": "7:00 PM",
+        "price": 1200,
+        "logo": "app_files/airline_logos/qantas.png",
+        "aircraft_model": "Boeing 787-9"
+    }
+]
+
