@@ -1,1 +1,55 @@
-
+{
+    "test": [
+        {
+            "username": "test",
+            "passenger_name": "Kingeon Fok",
+            "passenger_age": 18,
+            "flight_number": "QF144",
+            "origin": "Australia - Sydney",
+            "destination": "New Zealand - Christchurch",
+            "departure_time": "8:15 AM",
+            "arrival_time": "1:00 PM",
+            "flight_date": "2024-09-27",
+            "class": "First Class",
+            "ticket_type": "Adult (13+)",
+            "address": "1, 2, 2, 2",
+            "phone_number": "2",
+            "email": "kingeon.fok@my.bdsc.school.nz",
+            "fare": 1120.0
+        },
+        {
+            "username": "test",
+            "passenger_name": "Kingeon Fok",
+            "passenger_age": 17,
+            "flight_number": "CX198",
+            "origin": "New Zealand - Auckland",
+            "destination": "China - Hong Kong",
+            "departure_time": "1:45 PM",
+            "arrival_time": "9:20 PM",
+            "flight_date": "2025-11-13",
+            "class": "First Class",
+            "ticket_type": "Adult (13+)",
+            "address": "1, 1, 1, 1",
+            "phone_number": "0284608263",
+            "email": "kingeon.fok@my.bdsc.school.nz",
+            "fare": 4994.5
+        },
+        {
+            "username": "test",
+            "passenger_name": "Kingeon Fok",
+            "passenger_age": 17,
+            "flight_number": "CI071",
+            "origin": "Taiwan - Taipei",
+            "destination": "Japan - Tokyo",
+            "departure_time": "4:10 PM",
+            "arrival_time": "8:00 PM",
+            "flight_date": "2024-11-14",
+            "class": "First Class",
+            "ticket_type": "Adult (13+)",
+            "address": "1, 1, 1, 1",
+            "phone_number": "353315424242",
+            "email": "kingeon.fok@my.bdsc.school.nz",
+            "fare": 1246.0
+        }
+    ]
+}
